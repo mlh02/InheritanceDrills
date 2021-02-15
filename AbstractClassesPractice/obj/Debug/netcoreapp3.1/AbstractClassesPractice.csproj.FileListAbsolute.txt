@@ -1,0 +1,12 @@
+/Users/montygouki/Projects/AbstractClassesPractice/AbstractClassesPractice/bin/Debug/netcoreapp3.1/AbstractClassesPractice.deps.json
+/Users/montygouki/Projects/AbstractClassesPractice/AbstractClassesPractice/bin/Debug/netcoreapp3.1/AbstractClassesPractice.runtimeconfig.json
+/Users/montygouki/Projects/AbstractClassesPractice/AbstractClassesPractice/bin/Debug/netcoreapp3.1/AbstractClassesPractice.runtimeconfig.dev.json
+/Users/montygouki/Projects/AbstractClassesPractice/AbstractClassesPractice/bin/Debug/netcoreapp3.1/AbstractClassesPractice.dll
+/Users/montygouki/Projects/AbstractClassesPractice/AbstractClassesPractice/bin/Debug/netcoreapp3.1/AbstractClassesPractice.pdb
+/Users/montygouki/Projects/AbstractClassesPractice/AbstractClassesPractice/obj/Debug/netcoreapp3.1/AbstractClassesPractice.csprojAssemblyReference.cache
+/Users/montygouki/Projects/AbstractClassesPractice/AbstractClassesPractice/obj/Debug/netcoreapp3.1/AbstractClassesPractice.AssemblyInfoInputs.cache
+/Users/montygouki/Projects/AbstractClassesPractice/AbstractClassesPractice/obj/Debug/netcoreapp3.1/AbstractClassesPractice.AssemblyInfo.cs
+/Users/montygouki/Projects/AbstractClassesPractice/AbstractClassesPractice/obj/Debug/netcoreapp3.1/AbstractClassesPractice.csproj.CoreCompileInputs.cache
+/Users/montygouki/Projects/AbstractClassesPractice/AbstractClassesPractice/obj/Debug/netcoreapp3.1/AbstractClassesPractice.dll
+/Users/montygouki/Projects/AbstractClassesPractice/AbstractClassesPractice/obj/Debug/netcoreapp3.1/AbstractClassesPractice.pdb
+/Users/montygouki/Projects/AbstractClassesPractice/AbstractClassesPractice/obj/Debug/netcoreapp3.1/AbstractClassesPractice.genruntimeconfig.cache

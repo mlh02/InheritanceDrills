@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iKpV+Fskr91r/KE6kOl5Q5NsdvidTzZepjnBzAjGPVETD+s06dq558wo3TM9dD6GwEzZPQ53ZtTdbti9Dqilxw==",
+  "success": true,
+  "projectFilePath": "/Users/montygouki/Projects/AbstractClassesPractice/AbstractClassesPractice/AbstractClassesPractice.csproj",
+  "expectedPackageFiles": [
+    "/Users/montygouki/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
